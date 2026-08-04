@@ -8,8 +8,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &amp;name "Junteng Liu"
-description              : &amp;description "Junteng Liu's academic homepage"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic homepage"
 url                      : https://rada3petell.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "rada3petell/LJT-Homepage"
@@ -29,7 +29,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &amp;twitter "junteng88716710"
+  username               : &twitter "junteng88716710"
 facebook:
   username               :
   app_id                 :
@@ -141,7 +141,7 @@ social:
   name                   : Junteng Liu
   links:
     - https://github.com/Vicent0205
-    - https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate
+    - https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
     - https://x.com/junteng88716710
 
 # Analytics
